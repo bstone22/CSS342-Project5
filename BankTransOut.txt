@@ -23,7 +23,7 @@ Growth Index Fund: $10931
   D 10017 6543
   W 10017 1000
   T 10017 54 10015
-  W 10017 20000 (FAILED)
+  W 10017 10000
 
 Transaction History for Williams Hank 500 Index Fund $10000
   D 12534 10000
@@ -52,8 +52,7 @@ Value Fund: $10000
 Value Stock Index: $10000
   D 12539 10000
 
-ERROR: Account Number 4356 Cannot Be Found
-ERROR: Account 9876 is already open. Transaction refused.
+ Account Number 7000594993204
 
 Processing Done. Final Balances
 Cash Johnny ID: 1001
@@ -92,4 +91,6 @@ Nelson Willie ID: 9876
  Value Fund :$0
  Value Stock Index :$0
 
-Press any key to continue . . . 
+Press any key to continue . .
+
+ . 
