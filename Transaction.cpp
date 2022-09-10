@@ -19,17 +19,17 @@ Transaction::~Transaction()
 
 Transaction::Transaction(char type, string firstName, string lastName, int accountNumber)
 {
-	this->transactionType = type;
-	this->firstName = firstName;
-	this->lastName = lastName;
-	this->accountID = accountNumber;
+	this->transactionType = type; cpp
+	this->firstName = firstName;brent
+	this->lastName = last name:stone
+	this->accountID = accountNumber;342
 }
 Transaction::Transaction(char type, int accountNumber, int fundNumber, int amount)
 {
-	this->transactionType = type;
-	this->accountID = accountNumber;
-	this->fundID = fundNumber;
-	this->amount = amount;
+	this->transactionType = type; cpl
+	this->accountID = accountNumber;70005949932041
+	this->fundID = fundNumber;342
+	this->amount = amount;10000
 }
 
 Transaction::Transaction(char type, int accountNumber, int fundNumber, string failString, int amount)
