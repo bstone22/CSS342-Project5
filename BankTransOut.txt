@@ -23,7 +23,7 @@ Growth Index Fund: $10931
   D 10017 6543
   W 10017 1000
   T 10017 54 10015
-  W 10017 20000 (FAILED)
+  W 10017 10000
 
 Transaction History for Williams Hank 500 Index Fund $10000
   D 12534 10000
@@ -31,8 +31,8 @@ Transaction History for Williams Hank 500 Index Fund $10000
 Transaction History for Williams Hank By Fund.
 Money Market: $10000
   D 12530 10000
-Prime Money Market: $10000
-  D 12531 10000
+Flare account: $10000
+ 70005949932041 10000
 Long-Term Bond: $0
   D 12532 10000
   W 12532 10000
@@ -52,8 +52,7 @@ Value Fund: $10000
 Value Stock Index: $10000
   D 12539 10000
 
-ERROR: Account Number 4356 Cannot Be Found
-ERROR: Account 9876 is already open. Transaction refused.
+ Account Number 7000594993204
 
 Processing Done. Final Balances
 Cash Johnny ID: 1001
@@ -80,16 +79,19 @@ Williams Hank ID: 1253
  Value Fund :$10000
  Value Stock Index :$10000
 
-Nelson Willie ID: 9876
+Nelson Willie ID: 70005949932041
  Money Market :$0
  Prime Money Market :$0
  Long-Term Bond :$0
  Short-Term Bond :$0
  500 Index Fund :$0
- Capital Value Fund :$0
- Growth Equity Fund :$0
+ Capital Value Fund :$10000
+ Growth Equity Fund :$10000
  Growth Index Fund :$0
- Value Fund :$0
+ Value Fund :$5000
  Value Stock Index :$0
 
-Press any key to continue . . . 
+Press any key to continue . .fund 70005949932041
+
+
+ . 
